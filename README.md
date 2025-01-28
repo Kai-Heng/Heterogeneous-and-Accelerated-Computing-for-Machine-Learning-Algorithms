@@ -40,4 +40,4 @@ The client aims to create a system to:
 The semantic segmentation model processes video frames to identify key features such as eyes and pupils. Below is a demonstration of the segmentation output:
 
 ### Video Demonstration
-![Semantic Segmentation Result](https://1drv.ms/v/c/3a108b7672a986b9/EVooaL_1YlJAtlyXut6wY-EBQqgKfjPA7M0d1O5ePEDDBA?e=xN3pgH)
+[Semantic Segmentation Result](https://1drv.ms/v/c/3a108b7672a986b9/EVooaL_1YlJAtlyXut6wY-EBQqgKfjPA7M0d1O5ePEDDBA?e=xN3pgH)
